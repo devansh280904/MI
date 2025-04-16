@@ -1,5 +1,5 @@
 
-;<Find the maximum number from the block of 10 data bytes.>
+;<Find the mainimum number from the block of 10 data bytes.>
 
 jmp start
 

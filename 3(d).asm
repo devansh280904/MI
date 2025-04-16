@@ -1,5 +1,5 @@
 
-;<Program title>
+;<Store 20H in register B,add register B with the same number and also store the result in Register B.>
 
 jmp start
 

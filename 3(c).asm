@@ -1,5 +1,5 @@
 
-;<Program title>
+;<Store 20H in the accumulator and add the accumulator with the same.>
 
 jmp start
 
